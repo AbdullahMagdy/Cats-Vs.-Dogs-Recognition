@@ -23,4 +23,4 @@ Opencv<br>
 # To run the model 
 
 After Downloading the model and the dataset <br> you can unzip the zipped dataset files and put them in the right direction <br> then you can run this command<br>
-py main.py
+py cats vs dogs.py
